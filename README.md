@@ -1,2 +1,2 @@
 # Coding-tests
-This is where i save the small prgrams I make while learing to code in python
+This is where I save the small programs I write while learing to code in python 3
